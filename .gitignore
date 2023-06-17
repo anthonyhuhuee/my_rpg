@@ -1,0 +1,6 @@
+*.o
+*.a
+*.gcda
+*.gcno
+.vscode
+my_rpg
